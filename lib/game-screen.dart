@@ -72,7 +72,7 @@ class _GameScreenState extends State<GameScreen> {
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
                       Text(
-                        'Player O',
+                        'Player V',
                         style: customFontWhite,
                       ),
                       Text(
@@ -86,7 +86,7 @@ class _GameScreenState extends State<GameScreen> {
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
                       Text(
-                        'Player X',
+                        'Player S',
                         style: customFontWhite,
                       ),
                       Text(
